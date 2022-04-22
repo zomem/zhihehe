@@ -1,0 +1,68 @@
+
+.logo{
+  width: 50px;
+  height: 50px;
+}
+.management_sider{
+  height: calc(100vh - 64px);
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.management_logo_name{
+  color: #1e1e1e;
+  font-size: 16px;
+}
+
+.ant-layout-header{
+  background: #ffffff !important;
+  border-bottom: 1px solid #dadada;
+}
+
+.ant-layout-sider-children{
+  height: auto !important;
+}
+.ant-layout-sider{
+  overflow-x: hidden;
+  overflow: overlay;
+  background: #ffffff !important;
+}
+
+.management_content{
+  background-color: #ffffff;
+  border-left: 1px solid #efefef;
+  box-sizing: border-box;
+  padding: 0px;
+  overflow: scroll;
+  overflow: overlay;
+  height: calc(100vh - 64px);
+}
+
+
+
+@media (prefers-color-scheme: dark) {
+  .management_logo_name{
+    color: rgba(255, 255, 255, 0.85);
+  }
+  
+  .ant-layout-header{
+    background: #141414 !important;
+    border-bottom: 1px solid #242424;
+  }
+  
+  .ant-layout-sider-children{
+    height: auto !important;
+  }
+  .ant-layout-sider{
+    background: #141414 !important;
+  }
+  .ant-menu-item-active, 
+  .ant-menu-submenu-selected, 
+  .ant-menu-item-selected, 
+  .ant-menu-submenu-title:hover {
+    color: #5cb0ff !important;
+  }
+  .management_content{
+    background-color: #141414;
+    border-left: 1px solid #242424;
+  }
+}

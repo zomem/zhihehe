@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="208px" height="208px" viewBox="0 0 208 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>盒子 箱子</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="9.33586919%" fx="50%" fy="9.33586919%" r="90.6641308%" id="radialGradient-1">
+            <stop stop-color="#F6D09C" offset="0%"></stop>
+            <stop stop-color="#E0962F" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-2" cx="84" cy="84" r="84"></circle>
+        <filter x="-17.6%" y="-17.6%" width="136.3%" height="136.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.921568627   0 0 0 0 0.635294118   0 0 0 0 0.239215686  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="盒子-箱子" transform="translate(19.000000, 19.000000)">
+            <g id="椭圆形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#radialGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="箱子" transform="translate(37.000000, 32.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M44.4492933,0 L0.290671378,23.0004798 L46.4450883,45.669605 L91.6413074,23.3997855 L44.4492933,0 L44.4492933,0 Z M0,79.2531694 L43.6914488,103 L43.6914488,50.0755583 L0,29.3904835 L0,79.2531694 Z M13.8038163,46.9407859 L31.1489046,56.338308 L31.0463958,63.7465907 L13.7054417,54.3490687 L13.8039223,46.9407859 L13.8038163,46.9407859 Z M49.3330389,50.0754348 L49.3330389,102.848531 L93,77.889822 L93,28.3303218 L49.3330389,50.0754348 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

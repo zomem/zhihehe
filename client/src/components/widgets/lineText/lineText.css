@@ -1,0 +1,19 @@
+
+
+._line_text{
+  width: 100%;
+  height: auto;
+  padding-left: 5px;
+  margin-bottom: 20px;
+  font-size: 13px;
+  color: #333333;
+  font-weight: bold;
+  border-left: 2px solid #1890ff;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  ._line_text{
+    color: rgba(255,255,255,0.85);
+  }
+}

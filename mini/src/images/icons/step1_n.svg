@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>步骤1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="步骤1" fill-rule="nonzero">
+            <path d="M31,62 C13.88,62 0,48.12 0,31 C0,13.88 13.88,0 31,0 C48.12,0 62,13.88 62,31 C62,48.12 48.12,62 31,62 Z" id="路径" fill="#8c8c8c"></path>
+            <path d="M31,60 C47.016,60 60,47.016 60,31 C60,14.984 47.016,2 31,2 C14.984,2 2,14.984 2,31 C2,47.016 14.984,60 31,60 Z" id="路径" fill="#FFFFFF"></path>
+            <path d="M31,7 C17.746,7 7,17.746 7,31 C7,44.254 17.746,55 31,55 C44.254,55 55,44.254 55,31 C55,17.745166 44.254834,7 31,7 Z" id="路径" fill="#8c8c8c"></path>
+            <polygon id="路径" fill="#FEFEFE" points="38.902 41 25.682 41 25.682 37.486 30.098 37.486 30.098 23.94 25.558 24.964 25.558 21.34 34.514 19.454 34.514 37.486 38.902 37.486"></polygon>
+        </g>
+    </g>
+</svg>

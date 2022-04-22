@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="48px" viewBox="0 0 28 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>后退 (1)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="后退-(1)" fill="#ffffff" fill-rule="nonzero">
+            <path d="M8.7838125,24 L26.7793125,6.0045 C28.1949375,4.588875 28.1949375,2.47739062 26.7793125,1.06171875 C25.3636875,-0.35390625 23.2522031,-0.35390625 21.8365781,1.06171875 L1.72954687,21.16875 C-0.741796875,23.6400937 -0.381890625,25.0557188 1.72954687,27.5271094 L21.8605312,46.9382813 C23.2761562,48.3539062 25.3876875,48.3539062 26.8033125,46.9382813 C28.2189375,45.5226563 28.1949844,43.411125 26.7793125,41.9955 L8.7838125,24 Z" id="路径"></path>
+        </g>
+    </g>
+</svg>

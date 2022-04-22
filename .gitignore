@@ -1,0 +1,12 @@
+client/build
+client/node_modules
+
+
+mini/dist
+mini/node_modules
+
+
+server/node_modules
+server/dist
+
+.vscode

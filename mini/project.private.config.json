@@ -1,0 +1,72 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "我",
+          "pathName": "pages/mine/Mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "文章发布页面",
+          "pathName": "pages/mine/article/AddArticle",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "销售转发的",
+          "pathName": "pages/article/ArticleDetail",
+          "query": "aid=18&fuid=68",
+          "scene": null
+        },
+        {
+          "name": "邀请销售",
+          "pathName": "pages/mine/sale/InviteSale",
+          "query": "f_sale_uid=69",
+          "scene": null
+        },
+        {
+          "name": "购物车",
+          "pathName": "pages/shopCart/ShopCart",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "轨迹",
+          "pathName": "pages/mine/trade/ExpressTrack",
+          "query": "tradeNo=16346303513342418711",
+          "scene": null
+        },
+        {
+          "name": "礼物领取",
+          "pathName": "pages/gift/GiftSend",
+          "query": "gtid=39",
+          "scene": null
+        },
+        {
+          "name": "查寻",
+          "pathName": "pages/gift/checkGift/CheckGift",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "文章详情",
+          "pathName": "pages/article/ArticleDetail",
+          "query": "aid=25&fuid=69",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

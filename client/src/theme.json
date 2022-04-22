@@ -1,0 +1,34 @@
+{
+  "light": {
+    "textColorMain": "#1a1a1a",
+    "textGray": "#bfbfbf",
+
+    "red": "#ff4d4f",
+    "line": "#ebebeb",
+
+    "editorBorder": "#c6c8cd",
+    "textSmaller": "12",
+    "textSmall": "14",
+    "textNormal": "16",
+    "textLarge": "20",
+    "textLarger": "24",
+    "oneColor": "#f2d",
+    "pic": "@import"
+  },
+  "dark": {
+    "textColorMain": "rgba(255,255,255,0.85)",
+    "textGray": "#595959",
+
+    "red": "#ff4d4f",
+    "line": "#424242",
+
+    "editorBorder": "#424242",
+    "textSmaller": "12",
+    "textSmall": "14",
+    "textNormal": "16",
+    "textLarge": "20",
+    "textLarger": "24",
+    "oneColor": "#344362",
+    "pic": "@import"
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="59px" viewBox="0 0 32 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>arrow-left-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" stroke="#979797" fill="#FFFFFF" x="-92.5" y="-142.5" width="731" height="682"></rect>
+        <g id="arrow-left-1" fill="#202020" fill-rule="nonzero">
+            <path d="M31.2186667,4.53116669 C32.229259,3.48482295 32.214806,1.82160742 31.1861826,0.792984043 C30.1575593,-0.235639331 28.4943437,-0.250092334 27.448,0.7605 L0.781333312,27.4271667 C-0.25968515,28.4684996 -0.25968515,30.1565004 0.781333312,31.1978333 L27.448,57.8645 C28.4943437,58.8750923 30.1575593,58.8606393 31.1861826,57.832016 C32.214806,56.8033926 32.229259,55.1401771 31.2186667,54.0938333 L6.43733331,29.3125 L31.2186667,4.53116669 Z" id="路径"></path>
+        </g>
+    </g>
+</svg>

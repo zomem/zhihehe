@@ -1,0 +1,9 @@
+
+export const CURRENT_USER = 'CURRENT_USER'
+
+export const PRODUCT_CAT_LIST = 'PRODUCT_CAT_LIST'
+
+export const GIFT_NOTICE = 'GIFT_NOTICE'
+export const STYLES = 'STYLES'
+
+export const ACCOUNT_BALANCE = 'ACCOUNT_BALANCE'

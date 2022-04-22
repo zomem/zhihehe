@@ -1,0 +1,35 @@
+._topCatLine_all{
+  width: 750px;
+  height: 80px;
+  position: fixed;
+  left: 0;
+  z-index: 5;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  backdrop-filter: blur(20px);
+}
+._topCatLine_scroll_bar{
+  height: 5px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+._topCatLine_scroll_bar_color{
+  background-image: linear-gradient(to right , #51b875, #36a65d);
+  height: 100%;
+  width: 50%;
+}
+._topCatLine_item{
+  height: 100%;
+  font-size: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

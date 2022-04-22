@@ -1,0 +1,34 @@
+
+
+._cardPage_all{
+  background-color: #f5f7fa;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  width: 750px;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  transform: translate3d(0,0,0);
+  -webkit-transform: translate3d(0, 0, 0);
+  overflow: hidden;
+}
+._cardPage_con{
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+
+
+._card_page_scroll{
+  width: 100%;
+  height: 100%;
+}
+._cardPage_con2{
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  padding: 25px;
+}

@@ -1,0 +1,27 @@
+._toast_all{
+  width: 750px;
+  position: fixed;
+  z-index: 900;
+  left: 0;
+  box-sizing: border-box;
+  padding: 0 30px;
+  font-size: 30px;
+  font-weight: 700;
+  box-shadow: 1px 1px 20px 6px #e6e6e6;
+  background-color: #ffffff;
+  color: #202020;
+}
+
+._toast_success{
+}
+._toast_error{
+  
+}
+._toast_warning{
+  
+}
+._toast_icon{
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+}

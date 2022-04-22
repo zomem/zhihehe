@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="268px" height="268px" viewBox="0 0 268 268" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>称重</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="113" cy="113" r="113"></circle>
+        <filter x="-13.9%" y="-13.9%" width="127.9%" height="127.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="4" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0901960784   0 0 0 0 0.701960784   0 0 0 0 0.0980392157  0 0 0 0.109334025 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="称重" transform="translate(21.000000, 21.000000)">
+            <g id="椭圆形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill-opacity="0.108606725" fill="#17B319" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M112.5,208 C164.690909,208 207,165.690909 207,113.5 C207,61.3090911 164.690909,19 112.5,19 C60.3090911,19 18,61.3090911 18,113.5 C18,165.690909 60.3090911,208 112.5,208 Z M30.5,69.5 L194.5,157.5" id="形状结合" stroke="#17B319" stroke-width="12"></path>
+            <path d="M112.50348,50 C118.341196,50.0372588 123.724706,53.3708408 126.655674,58.7633334 C129.67357,64.2447733 129.905822,70.9804717 127.273599,76.6841667 L138.516398,76.6841667 C142.738884,76.6841667 146.420686,79.8283333 147.502054,84.3291667 L163.825568,152.639167 C164.244118,154.396082 163.900604,156.260898 162.890098,157.7175 C161.905932,159.146827 160.345904,159.993555 158.684777,160 L66.3136008,160 C64.6512782,159.989949 63.0915375,159.139977 62.1082792,157.708333 C61.1003739,156.254013 60.7569817,154.393223 61.1728096,152.639167 L77.4963232,84.3291667 C78.5038669,79.8921571 82.1991277,76.7489954 86.4733974,76.6933333 L97.716196,76.6933333 C95.0865901,70.9881089 95.3220693,64.2523777 98.3427031,58.7725 C101.273057,53.3736718 106.660934,50.0359203 112.50348,50 Z M112.50348,60.2666667 C108.469804,60.2666667 105.208534,63.8783333 105.208534,68.3333334 C105.208534,72.7883334 108.469804,76.4 112.50348,76.4 C116.537156,76.4 119.798425,72.7883333 119.798425,68.3333334 C119.798425,63.8783334 116.537156,60.2666667 112.50348,60.2666667 L112.50348,60.2666667 Z" id="形状" fill="#17B319" fill-rule="nonzero"></path>
+            <text id="&lt;-10KG" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#FFFFFF">
+                <tspan x="80" y="122">&lt; </tspan>
+                <tspan x="96.884" y="122" font-size="24">10</tspan>
+                <tspan x="121.076" y="122" font-size="16">KG</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

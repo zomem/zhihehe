@@ -1,0 +1,36 @@
+._search_all{
+  width: 700px;
+  margin: 27px 25px;
+  height: auto;
+}
+
+._search_con{
+  width: 700px;
+  height: 86px;
+  border-radius: 32px;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  border: 1px solid rgba(165, 165, 165, 0.2);
+}
+
+._search_icon{
+  width: 48px;
+  height: 48px;
+  margin-right: 5px;
+}
+._search_con_i{
+  width: auto;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 210px;
+}
+._search_input{
+  width: 400px;
+  height: 100%;
+}
+._search_input_l{
+  width: 590px;
+  height: 100%;
+}

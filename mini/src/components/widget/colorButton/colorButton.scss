@@ -1,0 +1,239 @@
+
+._color_button{
+  background-image: linear-gradient(to right , #51b875, #36a65d);
+  font-size: 30px;
+  border-radius: 13px;
+  color: #ffffff;
+  position: relative;
+  outline: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  transition: background-color .25s;
+}
+
+
+._color_button_little_blue{
+  background-color: #f5f7fa;
+  font-size: 30px;
+  border-radius: 13px;
+  color: #3d3d3d;
+  position: relative;
+  outline: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  transition: background-color .25s;
+}
+._color_button_op_white{
+  background-color: rgba($color: #ffffff, $alpha: 0.9);
+  font-size: 30px;
+  border-radius: 13px;
+  color: #3d3d3d;
+  position: relative;
+  outline: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  transition: background-color .25s;
+}
+
+
+
+._color_button_gray{
+  background-color: #f2f2f2;
+  font-size: 30px;
+  border-radius: 13px;
+  color: #1e1e1e;
+  position: relative;
+  outline: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  transition: background-color .25s;
+}
+
+._color_button_gray_disable{
+  background-color: #f2f2f2;
+  font-size: 30px;
+  border-radius: 13px;
+  color: #afafaf;
+  position: relative;
+  outline: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  transition: background-color .25s;
+}
+
+
+._color_button:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle, #666 10%, transparent 10.01%);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  transform: scale(10, 10);
+  opacity: 0;
+  transition: transform .3s, opacity .5s;
+}
+
+._color_button_little_blue:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle, #666 10%, transparent 10.01%);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  transform: scale(10, 10);
+  opacity: 0;
+  transition: transform .3s, opacity .5s;
+}
+._color_button_op_white:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle, #666 10%, transparent 10.01%);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  transform: scale(10, 10);
+  opacity: 0;
+  transition: transform .3s, opacity .5s;
+}
+
+._color_button_gray:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle, #666 10%, transparent 10.01%);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  transform: scale(10, 10);
+  opacity: 0;
+  transition: transform .3s, opacity .5s;
+}
+._color_button_gray_disable:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle, #666 10%, transparent 10.01%);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  transform: scale(10, 10);
+  opacity: 0;
+  transition: transform .3s, opacity .5s;
+}
+
+._color_button:active:after {
+  transform: scale(0, 0);
+  opacity: .3;
+  transition: 0s;
+}
+._color_button_little_blue:active:after {
+  transform: scale(0, 0);
+  opacity: .3;
+  transition: 0s;
+}
+._color_button_op_white:active:after {
+  transform: scale(0, 0);
+  opacity: .3;
+  transition: 0s;
+}
+._color_button_gray:active:after {
+  transform: scale(0, 0);
+  opacity: .3;
+  transition: 0s;
+}
+._color_button_gray_disable:active:after {
+  transform: scale(0, 0);
+  opacity: .3;
+  transition: 0s;
+}
+
+
+
+
+
+._color_button_disable{
+  border-radius: 13px;
+  font-size: 30px;
+  color: #ffffff;
+  position: relative;
+  outline: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  transition: background-color .25s;
+  background-image: linear-gradient(to right , #d2d2d2, #bfbfbf);
+}
+._color_button_line{
+  border: 1px solid #547be4 !important;
+  background-color: #ffffff;
+  font-size: 30px;
+  border-radius: 13px;
+  color: #547be4;
+  position: relative;
+  outline: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  transition: background-color .25s;
+}
+
+
+._color_button_line:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle, #666 10%, transparent 10.01%);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  transform: scale(10, 10);
+  opacity: 0;
+  transition: transform .3s, opacity .5s;
+}
+
+._color_button_line:active:after {
+  transform: scale(0, 0);
+  opacity: .3;
+  transition: 0s;
+}
+
