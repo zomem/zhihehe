@@ -1,6 +1,5 @@
 
 ## 微信小程序商城 全栈开发 源码  
-
   
 ### 说明  
   
@@ -11,11 +10,13 @@
 | 后台     |  server   |  koa2, TypeScript, access-db   |
 
 
-### 页面
+### 页面 
+支持 深色模式  
+  
 <figure class="half">
   <img src="./1.jpg" width="280"/><img src="./2.jpg" width="280"/>
 </figure>
-
+  
 可扫码体验   
 
 ![纸禾禾](https://file.zomem.com/zhihehe/images/wzj.png)  
