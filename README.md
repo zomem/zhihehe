@@ -12,10 +12,12 @@
 
 
 ### 页面
-<center class="half">
+<figure class="half">
   <img src="./1.jpg" width="280"/><img src="./2.jpg" width="280"/>
-</center>
+</figure>
+
 可扫码体验   
+
 ![纸禾禾](https://file.zomem.com/zhihehe/images/wzj.png)  
 
 ### 管理后台  
