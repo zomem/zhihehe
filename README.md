@@ -14,7 +14,7 @@
 支持 深色模式  
   
 <figure class="half">
-  <img src="./1.jpg" width="280"/><img src="./2.jpg" width="280"/>
+  <img src="./1.jpg" width="320"/><img src="./2.jpg" width="320"/>
 </figure>
   
 可扫码体验   
