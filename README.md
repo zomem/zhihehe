@@ -19,8 +19,6 @@
   
 可扫码体验   
 
-![纸禾禾](https://file.zomem.com/zhihehe/images/wzj.png)  
-
 ### 管理后台  
 管理后台的代码在 `client/src/pages/management`  
 路由配置在 `client/src/App.tsx`  
@@ -60,7 +58,7 @@
 导入`zhihehe_base.sql`到数据库   
 
 配置信息： `server/.env`  
-access-db 配置方法：[https://access-db.cn](https://access-db.cn)
+
 
 ```shell
   cd server
